@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-    int age = 18;          // integer variable
+    int age = 20;          // integer variable
     float pi = 3.14;       // decimal number
     char grade = 'A';      // single character
-    string name = "Farhad"; // text (needs <string>)
+    string name = "Madhurjya"; // text (needs <string>)
     bool isStudent = true; // true/false
 
     cout << "Age: " << age << endl;
@@ -16,3 +16,4 @@ int main() {
 
     return 0;
 }
+
